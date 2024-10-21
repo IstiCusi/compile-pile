@@ -14,6 +14,8 @@ This repository contains sketches and exploratory work related to converting a N
     - **NFA to DFA Conversion**: Converts a given NFA into a DFA by systematically handling the epsilon transitions and input symbols.
   - Unit tests for all major functions are included to verify correctness.
 
+  ![Rabin and Scott](./rabin.jpg)
+
 - **`show_graph_manim.py`**:
 
   - This file visualizes the structure of a DFA using **Manim**, a popular Python library for creating mathematical animations.
