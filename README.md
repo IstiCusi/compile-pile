@@ -1,7 +1,9 @@
 # DFA Conversion and Visualization
 
 This repository contains sketches and exploratory work related to converting a Non-deterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA), along with visualization using **Manim**. These scripts were created as part of another project, and I am sharing them here for reference.
-[Detailed Theory Explanation](./THEORY.md)
+[Detailed Explanation](./THEORY.md)
+
+This is still under construction -- and especially the DFA construction not working perfectly.
 
 ## Files in This Repository
 
